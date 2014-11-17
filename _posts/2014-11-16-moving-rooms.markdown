@@ -18,7 +18,7 @@ So now we have an empty bedroom ready for decorating.
 
 We ordered a radiator tonight too.
 
-Plan for tomorrow is:
+**Plan for tomorrow is:**
 
 * Buy bits from B&Q and ScrewFix
 * Spur off a socket for the radiator

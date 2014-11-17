@@ -2,8 +2,8 @@
 title: A DIY Failure
 email: kev@etchapps.com
 description: A simple blog that captures a few days of fails  
-baseurl: "/kdd-jekyll" # the subpath of your site, e.g. /blog/
-url: "http://kevindew.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://diy.kevindew.me" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
