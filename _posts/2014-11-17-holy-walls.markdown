@@ -30,6 +30,12 @@ Tensely I switched to the power on at the mains again and - Joy - the light lit 
 
 So - yay that worked, sadly we planned to do this twice today but ran out of time so we'll have to do this all again tomorrow.
 
+We also made a key decision on the colour we're going to paint the room. Donna chose a bluey-green Dulux called Mint Macaroon.
+
+![Paints]({{ site.baseurl}}/images/posts/holy-walls/paints.jpg)
+
+We're going with the one on the right.
+
 **Plan for tomorrow is:**
 
 * Fit and hide a cable for a heater
