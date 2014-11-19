@@ -17,8 +17,7 @@
     margin-bottom: 0;
     float: left;
 
-    &,
-    &:visited {
+    & {
         color: $grey-color-dark;
     }
 }
@@ -233,4 +232,20 @@
             font-size: 18px;
         }
     }
+}
+
+.pagination {
+    font-weight: bold;
+    height: 1em;
+    position: relative;
+    .previous {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .next {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }    
 }

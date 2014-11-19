@@ -4,6 +4,8 @@ email: kev@etchapps.com
 description: A simple blog that captures a few days of fails  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://diy.kevindew.me" # the base hostname & protocol for your site
+paginate: 5
+paginate_path: "/page-:num/"
 
 # Build settings
 markdown: kramdown

@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -17,8 +17,22 @@ layout: default
           <img src="{{ post.gif }}" alt="{{ post.gif_alt }}" title="{{ post.gif_title }}">
           <p><small>Current Status: <em>{{ post.gif_title }}</em></small></p>
         </div>
+
+        <p><a href="{{ post.permalink }}"><strong>Read &raquo;</strong></a>
       </li>
     {% endfor %}
   </ul>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&lt; Earlier</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Older &gt;</a>
+    {% endif %}
+  </div>
+  {% endif %}
 
 </div>
