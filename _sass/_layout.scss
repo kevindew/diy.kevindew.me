@@ -248,3 +248,20 @@
         right: 0;
     }    
 }
+
+form {
+    input, textarea, select, button {
+        font-family: $base-font-family;
+        font-size: $base-font-size;
+        line-height: $base-line-height;
+    }
+    label { 
+        display: block;
+    }
+    .wide-input {
+        max-width: 500px;
+        width: 100%;
+        margin-bottom: 1em;
+    }    
+}
+

@@ -8,8 +8,8 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.header_title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.header_title }}</a>
           {% endif %}
         {% endfor %}
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="page-link">RSS</a>

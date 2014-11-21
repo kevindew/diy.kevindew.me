@@ -8,13 +8,13 @@ gif_title: We're ready
 ---
 Today we did the prep before a (hopefully) productive week.
 
-![Office]({{ site.baseurl}}/images/posts/moving-rooms/office-1.jpg)
+![Office]({{ site.baseurl }}/images/posts/moving-rooms/office-1.jpg)
 
-![Office]({{ site.baseurl}}/images/posts/moving-rooms/office-2.jpg)
+![Office]({{ site.baseurl }}/images/posts/moving-rooms/office-2.jpg)
 
 So now we have an empty bedroom ready for decorating.
 
-![Bedroom]({{ site.baseurl}}/images/posts/moving-rooms/bedroom.jpg)
+![Bedroom]({{ site.baseurl }}/images/posts/moving-rooms/bedroom.jpg)
 
 We ordered a radiator tonight too.
 

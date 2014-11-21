@@ -1,0 +1,25 @@
+---
+layout: page
+title: Ask Me Anything
+header_title: AMA
+permalink: /ama/
+---
+
+<div class="contact">
+
+  <h2>Guaranteed bad DIY advice</h2>
+
+  <form action="//forms.brace.io/kevindew@me.com" method="post" class="contact-form">
+    <input type="hidden" name="_subject" value="DIY AMA">
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="hidden" name="_next" value="{{ site.baseurl | prepend: site.url }}/ama/thanks/" />
+    <label for="ama-name">Your Name</label>
+    <input type="text" name="name" id="ama-name" placeholder="Tim Taylor" class="wide-input" required><br />
+    <label for="ama-email">Your Email</label>
+    <input type="email" name="_replyto" id="ama-email" class="wide-input" placeholder="tim@thetoolman.com" required><br />
+    <label for="ama-question">Your Question</label>
+    <textarea cols="30" rows="5" name="question" id="ama-question" placeholder="How do I change a lightbulb?" class="wide-input" required></textarea><br />
+    <button type="submit">Send</button>
+  </form>
+
+</div>

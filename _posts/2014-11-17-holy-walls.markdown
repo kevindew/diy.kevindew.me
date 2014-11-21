@@ -11,11 +11,11 @@ DIY was delayed today by a rather prolonged shopping trip that involved buying a
 Subway meatballs and watching puppy grooming in a Pets at Home. We arrived home at 4pm with
 bags full of sockets, a pad saw and a galvanised steel band. All ready to start operation hide cable behind wall.
 
-![Pre Holes]({{ site.baseurl}}/images/posts/holy-walls/pre-holes.jpg)
+![Pre Holes]({{ site.baseurl }}/images/posts/holy-walls/pre-holes.jpg)
 
 The grey and cables were attached to the wall in trunking. We wanted to put them inside the wall. 
 
-![Mid Holes]({{ site.baseurl}}/images/posts/holy-walls/mid-holes.jpg)
+![Mid Holes]({{ site.baseurl }}/images/posts/holy-walls/mid-holes.jpg)
 
 We made some holes and started threading the cable through. This quickly become something of a pain. 
 Then we hit the corner, which upgraded the pain to an agony. The number of holes quickly increased. 
@@ -26,13 +26,13 @@ We attached the cables to the wall using a [Galvanised Band](http://www.screwfix
 
 Tensely I switched to the power on at the mains again and - Joy - the light lit up.
 
-![Done]({{ site.baseurl}}/images/posts/holy-walls/done.jpg)
+![Done]({{ site.baseurl }}/images/posts/holy-walls/done.jpg)
 
 So - yay that worked, sadly we planned to do this twice today but ran out of time so we'll have to do this all again tomorrow.
 
 We also made a key decision on the colour we're going to paint the room. Donna chose a bluey-green Dulux called Mint Macaroon.
 
-![Paints]({{ site.baseurl}}/images/posts/holy-walls/paints.jpg)
+![Paints]({{ site.baseurl }}/images/posts/holy-walls/paints.jpg)
 
 We're going with the one on the right.
 

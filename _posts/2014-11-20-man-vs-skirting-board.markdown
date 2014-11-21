@@ -17,7 +17,7 @@ We then moved on to getting a 50/50 coat of emulsion and water on the ceiling (f
 Donna was delighted to be finally getting to do some painting. 
 In no time at all we were covered in splatters of paint and finally had some white on the bare plaster ceiling.
 
-![Ceiling]({{ site.baseurl}}/images/posts/man-vs-skirting-board/ceiling.jpg)
+![Ceiling]({{ site.baseurl }}/images/posts/man-vs-skirting-board/ceiling.jpg)
 
 I moved on to a job I had been dreading all week: removing a 2 metre stretch from the skirting board in preparation for a wardrobe.
 Our skirting board was held on by nails into the masonry behind the hollow plasterboard so the job was to cut it at 2 points and remove the middle section.
@@ -27,16 +27,16 @@ Hours passed while I fought on with my chisel, hammer and stanley knife (I could
 I managed to remove one nail by digging away into the board with the chisel and finally getting the hammer angled right to remove it. 
 However on the second nail disaster struck and I suffered a casualty. Goodbye Hammer.
 
-![Hammer]({{ site.baseurl}}/images/posts/man-vs-skirting-board/hammer.jpg)
+![Hammer]({{ site.baseurl }}/images/posts/man-vs-skirting-board/hammer.jpg)
 
 Without a hammer I had to turn to an old friend - my trusty drill. 
 Thankfully this was a far more productive approach than my previous flailings. Soon after most of the nails were free and I just had to (somehow) cut a entirely through the skirting board at the point we wanted to break it.
 
-![Skirting on]({{ site.baseurl}}/images/posts/man-vs-skirting-board/skirting-on.jpg)
+![Skirting on]({{ site.baseurl }}/images/posts/man-vs-skirting-board/skirting-on.jpg)
 
 A prolonged attack with the drill and chisel finally lead to the breakthrough. A few snaps and scatterings of splinters the skirting was finally free from the wall. Hurrah! Although there were still some nasty holes to fill and a good centimetre of skirting board still to reduce and sand.
 
-![Skirting off]({{ site.baseurl}}/images/posts/man-vs-skirting-board/skirting-off.jpg)
+![Skirting off]({{ site.baseurl }}/images/posts/man-vs-skirting-board/skirting-off.jpg)
 
 During this battle Donna had bravely made a solo mission to B&Q and had returned with a pile of screws and fixings. 
 Elated by the success with the skirting board I returned to the inagural task of the day - fitting the radiator. 
