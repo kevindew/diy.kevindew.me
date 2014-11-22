@@ -7,11 +7,8 @@
     <nav class="site-nav">
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.header_title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.header_title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="{{ "/about/" | prepend: site.baseurl }}">About</a>
+        <a class="page-link" href="{{ "/ama/" | prepend: site.baseurl }}" title="Ask Me Anything">AMA</a>
         <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="page-link">RSS</a>
       </div>
     </nav>
